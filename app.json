@@ -5,7 +5,7 @@
   "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
 "env": {
-      "autoviewstatus": {
+      "autoviewstatus": {true
         "description": "Put TRUE,if you want the bot to view status ",
         "required": true
       },
